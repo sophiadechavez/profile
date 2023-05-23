@@ -6,10 +6,14 @@ Senior Software Engineer
 
 I have over 4 years of experience providing application development and support services for several international company clients. Substantial knowledge of Adobe Experience Manager (AEM) Sites and React JS implementation, integration, standard development, and customization, and relating to any functions such as application development, manipulation tasks, system monitoring and application optimization.
 
-*   🌍  I'm based in Makati, Metro Manila
-*   ✉️  You can contact me at [sophiakatrina.dechavez@gmail.com](mailto:sophiakatrina.dechavez@gmail.com)
-*   🧠  I'm learning Adobe Experience Manager, ReactJS, HTML, CSS and Javascript
-*   ⚡  I have an orange cat named Phoebe. She sits beside my laptop while I work.### Skills 
+* 🌍  I'm based in Makati, Metro Manila
+* ✉️  You can contact me at [sophiakatrina.dechavez@gmail.com](mailto:sophiakatrina.dechavez@gmail.com)
+* 🧠  I'm learning Adobe Experience Manager, ReactJS, HTML, CSS and Javascript
+* ⚡  I have an orange cat named Phoebe. She sits beside my laptop while I work.
+
+### Skills
+
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -23,10 +27,8 @@ I have over 4 years of experience providing application development and support 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="http://www.instagram.com/sophiadechavez/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="http://www.instagram.com/sophiadechavez/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sophia-de-chavez-280a33160" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
